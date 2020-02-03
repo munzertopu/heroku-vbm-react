@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.362f1442.chunk.css",
-    "main.js": "/static/js/main.889f6141.chunk.js",
-    "main.js.map": "/static/js/main.889f6141.chunk.js.map",
+    "main.css": "/static/css/main.5b8973f5.chunk.css",
+    "main.js": "/static/js/main.64f3f6a8.chunk.js",
+    "main.js.map": "/static/js/main.64f3f6a8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fea08293.js",
     "runtime-main.js.map": "/static/js/runtime-main.fea08293.js.map",
     "static/css/2.ef9daf9c.chunk.css": "/static/css/2.ef9daf9c.chunk.css",
-    "static/js/2.c769904d.chunk.js": "/static/js/2.c769904d.chunk.js",
-    "static/js/2.c769904d.chunk.js.map": "/static/js/2.c769904d.chunk.js.map",
+    "static/js/2.324e999d.chunk.js": "/static/js/2.324e999d.chunk.js",
+    "static/js/2.324e999d.chunk.js.map": "/static/js/2.324e999d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6cbf8ed409c91cd419806f180f7441ef.js": "/precache-manifest.6cbf8ed409c91cd419806f180f7441ef.js",
+    "precache-manifest.c01ccdfd8df6143489410c8c38c20975.js": "/precache-manifest.c01ccdfd8df6143489410c8c38c20975.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.ef9daf9c.chunk.css.map": "/static/css/2.ef9daf9c.chunk.css.map",
-    "static/css/main.362f1442.chunk.css.map": "/static/css/main.362f1442.chunk.css.map",
-    "static/js/2.c769904d.chunk.js.LICENSE": "/static/js/2.c769904d.chunk.js.LICENSE",
+    "static/css/main.5b8973f5.chunk.css.map": "/static/css/main.5b8973f5.chunk.css.map",
+    "static/js/2.324e999d.chunk.js.LICENSE": "/static/js/2.324e999d.chunk.js.LICENSE",
     "static/media/App.css": "/static/media/Maindashboardbg.382d7ac0.jpg",
     "static/media/bobsmarketlogo.gif": "/static/media/bobsmarketlogo.dd5aef55.gif",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/menu.svg": "/static/media/menu.b28650f7.svg",
     "static/media/vbm_hero_img.png": "/static/media/vbm_hero_img.65121cd8.png",
     "static/media/vbm_revlg.png": "/static/media/vbm_revlg.47d24e26.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fea08293.js",
     "static/css/2.ef9daf9c.chunk.css",
-    "static/js/2.c769904d.chunk.js",
-    "static/css/main.362f1442.chunk.css",
-    "static/js/main.889f6141.chunk.js"
+    "static/js/2.324e999d.chunk.js",
+    "static/css/main.5b8973f5.chunk.css",
+    "static/js/main.64f3f6a8.chunk.js"
   ]
 }
