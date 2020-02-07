@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.db9f2387.chunk.css",
+    "main.css": "/static/css/main.0272e039.chunk.css",
     "main.js": "/static/js/main.9ef6f73c.chunk.js",
     "main.js.map": "/static/js/main.9ef6f73c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fea08293.js",
@@ -9,10 +9,10 @@
     "static/js/2.e313cfbe.chunk.js": "/static/js/2.e313cfbe.chunk.js",
     "static/js/2.e313cfbe.chunk.js.map": "/static/js/2.e313cfbe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.309119de943844e5d40652fcd3cc99ff.js": "/precache-manifest.309119de943844e5d40652fcd3cc99ff.js",
+    "precache-manifest.c6325bc1476bf7d348dbfec94d3b8c5f.js": "/precache-manifest.c6325bc1476bf7d348dbfec94d3b8c5f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.9828b9e2.chunk.css.map": "/static/css/2.9828b9e2.chunk.css.map",
-    "static/css/main.db9f2387.chunk.css.map": "/static/css/main.db9f2387.chunk.css.map",
+    "static/css/main.0272e039.chunk.css.map": "/static/css/main.0272e039.chunk.css.map",
     "static/js/2.e313cfbe.chunk.js.LICENSE": "/static/js/2.e313cfbe.chunk.js.LICENSE",
     "static/media/App.css": "/static/media/Maindashboardbg.382d7ac0.jpg",
     "static/media/bobsmarketlogo.gif": "/static/media/bobsmarketlogo.dd5aef55.gif",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.fea08293.js",
     "static/css/2.9828b9e2.chunk.css",
     "static/js/2.e313cfbe.chunk.js",
-    "static/css/main.db9f2387.chunk.css",
+    "static/css/main.0272e039.chunk.css",
     "static/js/main.9ef6f73c.chunk.js"
   ]
 }
