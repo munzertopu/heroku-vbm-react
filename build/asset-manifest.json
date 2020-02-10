@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b3095c4.chunk.css",
-    "main.js": "/static/js/main.f5611914.chunk.js",
-    "main.js.map": "/static/js/main.f5611914.chunk.js.map",
+    "main.css": "/static/css/main.d9b8d886.chunk.css",
+    "main.js": "/static/js/main.76578987.chunk.js",
+    "main.js.map": "/static/js/main.76578987.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fea08293.js",
     "runtime-main.js.map": "/static/js/runtime-main.fea08293.js.map",
     "static/css/2.9828b9e2.chunk.css": "/static/css/2.9828b9e2.chunk.css",
     "static/js/2.f4486778.chunk.js": "/static/js/2.f4486778.chunk.js",
     "static/js/2.f4486778.chunk.js.map": "/static/js/2.f4486778.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bbc2bee5a129a823ddc77751d5b515d8.js": "/precache-manifest.bbc2bee5a129a823ddc77751d5b515d8.js",
+    "precache-manifest.e51f971ec0b2e931edfd526f495a5bc3.js": "/precache-manifest.e51f971ec0b2e931edfd526f495a5bc3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.9828b9e2.chunk.css.map": "/static/css/2.9828b9e2.chunk.css.map",
-    "static/css/main.3b3095c4.chunk.css.map": "/static/css/main.3b3095c4.chunk.css.map",
+    "static/css/main.d9b8d886.chunk.css.map": "/static/css/main.d9b8d886.chunk.css.map",
     "static/js/2.f4486778.chunk.js.LICENSE": "/static/js/2.f4486778.chunk.js.LICENSE",
     "static/media/App.css": "/static/media/Maindashboardbg.382d7ac0.jpg",
     "static/media/bobsmarketlogo.gif": "/static/media/bobsmarketlogo.dd5aef55.gif",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.fea08293.js",
     "static/css/2.9828b9e2.chunk.css",
     "static/js/2.f4486778.chunk.js",
-    "static/css/main.3b3095c4.chunk.css",
-    "static/js/main.f5611914.chunk.js"
+    "static/css/main.d9b8d886.chunk.css",
+    "static/js/main.76578987.chunk.js"
   ]
 }
